@@ -1,6 +1,6 @@
 # Gesture-Recognition
 
-In this project we are a model to predict Hand Gestures in real-time.
+In this project we are creating a model to predict Hand Gestures in real-time.
 
 # About the dataset
 The 20BN - Jester Dataset (https://20bn.com/datasets/jester)   

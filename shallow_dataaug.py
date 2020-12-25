@@ -16,6 +16,7 @@ import seaborn as sbn
 import matplotlib.image as img
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
 import img_data_aug
 import os
 import gc

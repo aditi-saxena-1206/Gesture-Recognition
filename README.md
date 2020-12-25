@@ -38,4 +38,5 @@ $ python3 prediction.py
 
 
 # Improvement
-We tried to improve the accuracy of the code using Data Augmentation to get a more varied dataset. The file 'shallow_dataaug.py' contains the script to train the model with data augmentation.
+We tried to improve the accuracy of the code using Data Augmentation to get a more varied dataset. The file 'shallow_dataaug.py' contains the script to train the model with data augmentation.  
+The weights are training this model can be found in the folder 'weights2'
